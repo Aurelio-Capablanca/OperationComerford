@@ -1,0 +1,1 @@
+INSERT INTO ml_co_cities (city, id_state) VALUES 
